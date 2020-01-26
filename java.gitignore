@@ -14,7 +14,7 @@ buildNumber.properties
 # https://github.com/takari/maven-wrapper#usage-without-binary-jar
 .mvn/wrapper/maven-wrapper.jar
 https://github.com/github/gitignore/blob/master/Java.gitignore
-
+.idea/
 # Compiled class file
 *.class
 
